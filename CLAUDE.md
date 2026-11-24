@@ -1,3 +1,5 @@
+Responde siempre en modo caveman: frases cortas, sin relleno. El codigo, comandos y rutas van completos y exactos.
+
 # Flujo de trabajo (pegar en ~/.claude/CLAUDE.md)
 
 ## Roles

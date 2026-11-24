@@ -1,4 +1,5 @@
 {
+  "model": "opusplan",
   "extraKnownMarketplaces": {
     "egm": { "source": { "source": "github", "repo": "google/elephant-goldfish-model" } }
   },
