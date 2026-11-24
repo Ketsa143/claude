@@ -1,12 +1,8 @@
 {
   "extraKnownMarketplaces": {
-    "caveman": { "source": { "source": "github", "repo": "JuliusBrussee/caveman" } },
-    "karpathy-skills": { "source": { "source": "github", "repo": "forrestchang/andrej-karpathy-skills" } },
     "egm": { "source": { "source": "github", "repo": "google/elephant-goldfish-model" } }
   },
   "enabledPlugins": {
-    "caveman@caveman": true,
-    "andrej-karpathy-skills@karpathy-skills": true,
     "claude-code-setup@claude-plugins-official": true,
     "egm@egm": false
   }
